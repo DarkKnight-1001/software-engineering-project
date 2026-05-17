@@ -1,6 +1,6 @@
 
 
-Notes App
+# Notes App
 A simple and beginner-friendly Notes App built using HTML, CSS, and JavaScript.
 Features
 Add notes
